@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArtExplore</string>
+    <string name="send_notification">发送通知</string>
+    <string name="circle_view">圆上控件</string>
+    <string name="button_a">Button_A</string>
+    <string name="button_b">button_b</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
