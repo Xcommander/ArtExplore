@@ -8,4 +8,7 @@
     <string name="remote_view">remote view</string>
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
+    <string name="todo">TODO</string>
+    <string name="view_anim">view动画</string>
+    <string name="animator">属性动画</string>
 </resources>
